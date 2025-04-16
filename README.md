@@ -1,10 +1,3 @@
-Nice! Here's a sample `README.md` file tailored for your [Plagiarism Detection](https://github.com/Anyesha-Biswas/plagiarism) GitHub project:
-
----
-
-### 📄 `README.md`
-
-```markdown
 # 🔍 Plagiarism Detection System
 
 This project is a simple **Plagiarism Detection System** that helps identify textual similarities between documents using natural language processing (NLP) techniques. It's built for educational and academic use, and demonstrates basic methods for comparing the similarity between texts.
